@@ -12,6 +12,7 @@ public class duplicateinstring {
 	        for (char c : input.toCharArray()) {
 	            if (!seen.add(c)) {
 	                System.out.println("Duplicate: " + c);
+	                //System.out.println("Duplicate: " + c);
 	            }
 	        }
 	    }

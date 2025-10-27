@@ -14,7 +14,12 @@ public static void main(String [] args )
 	
 }
 	System.out.println(aks);
+<<<<<<< HEAD
 	//	System.out.println(c);
+=======
+	
+	//System.out.println(c);
+>>>>>>> feature
 }
 }
 
