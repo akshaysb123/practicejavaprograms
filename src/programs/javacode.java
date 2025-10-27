@@ -12,7 +12,7 @@ public class javacode {
 		    System.out.print(c.charAt(i));
 		
 		
-		//System.out.println(c);
+		System.out.println(c);
 		
 		}
 
